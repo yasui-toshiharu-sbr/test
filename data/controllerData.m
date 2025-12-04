@@ -12,7 +12,7 @@ Ts = 0.01;
 
 % Lookup table scaling data
 angle_sensor_range = [0.5 4.5];
-pedal_sensor_range = [0 1];
+pedal_sensor_range = [0 1 2 3 4 5];
 uint_range_10bit = [0 1023];
 normalized_range = [0 5];
 digital_range = [0 1];
